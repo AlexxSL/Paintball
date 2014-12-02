@@ -1,0 +1,37 @@
+name: Paintball
+main: me.iAlpha0Detrix.Paintball.Paintball
+version: 1.0
+author: iAlpha0Detrix
+
+commands:
+  armor:
+    description:
+    usage: /armor
+    permission: Paintball.armor
+    permission-message: DENIED!
+  score:
+    description:
+    usage: /score
+    permission: Paintball.score
+    permission-message: Fail!
+  setpbspawn:
+    description:
+    usage: /setpbspawn
+    permission: Paintball.setspawn
+    permission-message: Fail!
+  broadcast:
+        description:
+        usage: /broadcast
+        permission: Paintball.broadcast
+        permission-message: DENIED!
+  hits:
+        description:
+        usage: /hits
+        permission: Paintball.hits
+        permission-message: DENIED!   
+     
+  countdown:
+        description:
+        usage: /countdown
+        permission: Paintball.countdown
+        permission-message: DENIED! 
