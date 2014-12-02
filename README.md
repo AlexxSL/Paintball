@@ -1,2 +1,3 @@
 Paintball
 =========
+Bukkit Paintball plugin
